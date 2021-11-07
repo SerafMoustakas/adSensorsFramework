@@ -17,6 +17,7 @@ An in-depth paragraph about your project and overview of use.
 ### Android Layer
 
 *  adsensors.XposedHooks
+
 This module is responsible for monitoring sensor function calls and redirecting any console messages to the logcat.
 
 Download the module,compile and build the apk.
@@ -30,6 +31,7 @@ Parse the output of the module using the command adb logcat | grep -i “OsLog�
 ### Android Layer
 
 *  mitm-injector.py
+
 This script is responsible for monitoring and logging HTML5 WebAPI calls and saving network flows and HTML/JS files. The script saves the output to the file named “output.txt”.  You can distinguish different flows using  “---###---###---###---###---”
 
 Setup mitmproxy using the transparent proxy option. 
