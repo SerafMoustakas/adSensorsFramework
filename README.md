@@ -14,11 +14,11 @@ Adsensors dynamically analyzes applications with in-app advertisements and monit
 
 This module is responsible for monitoring sensor function calls and redirecting any console messages to the logcat.
 
-Download the module,compile and build the apk.
-Install the module
-Activate the module
-Reboot the device 
-Parse the output of the module using the command adb logcat | grep -i “OsLog”
+Download the module,compile and build the apk.<br />
+Install the module<br />
+Activate the module<br />
+Reboot the device <br />
+Parse the output of the module using the command adb logcat | grep -i “OsLog”<br />
 
 * Use Reaper’s UIHarvester module  to automatically traverse apps
 
