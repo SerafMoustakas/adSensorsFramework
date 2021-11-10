@@ -2,12 +2,6 @@
 
 Adsensors dynamically analyzes applications with in-app advertisements and monitors access to all available mobile sensors and records any potential leakage of this type of data.
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
-
 ### Prerequisites
 
 * Xposed Framework
@@ -47,6 +41,5 @@ For technical details please refer to our publication:
 
 This Sneaky Piggy Went to the Android Ad Market: Misusing Mobile Sensors for Stealthy Data Exfiltration
 
-## Authors
 
-Designed by Serafeim Moustakas and Michalis Diamantaris, implemented by Serafeim Moustakas.
+*Designed by Serafeim Moustakas and Michalis Diamantaris, implemented by Serafeim Moustakas.*
